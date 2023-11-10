@@ -91,7 +91,7 @@
 
 Ось цей хлопець – Лінус Торвальдс.
 
-![](https://i.ytimg.com/vi/qDNVr1ucwyE/maxresdefault.jpg) 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LinuxCon_Europe_Linus_Torvalds_03.jpg/800px-LinuxCon_Europe_Linus_Torvalds_03.jpg) 
 
 Він колись і вигадав GIT, про який ми сьогодні і поговоримо.
 
